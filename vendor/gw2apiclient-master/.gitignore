@@ -1,0 +1,7 @@
+vendor
+cache
+test.php
+.idea
+.php_cs.cache
+githubhook.log
+
